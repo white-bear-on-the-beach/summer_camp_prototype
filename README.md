@@ -1,33 +1,36 @@
-# summer_camp_prototype
-
-**Prototyp gry na potrzeby Summer Camp 2021**
+# Prototyp gry na potrzeby Summer Camp 2021
 
 Wrzutka zawiera gotową działającą paczkę wraz z assetami i skryptami.
 Aby uruchomić grę wystarczy pobrać tą paczkę i otworzyć jako projekt w Unity,
 jednak warto spróbować stworzyć projekt samodzielnie, po zaimportowaniu poniższych assetów.
 
-Napisane skrypty:
+* [Uruchomienie ProBuildera](#uruchomienie-probuildera)
+
+### Napisane skrypty:
 - PlayerMovement.cs
 - MouseLook.cs
 
-Assety z Asset Store (https://assetstore.unity.com/)
-Conifers [BOTD]: https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
-Grass Flowers Pack Free: https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
-Outdoor Ground Textures: https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
-Terrain Tools Sample Asset Pack: https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-tools-sample-asset-pack-145808
+### Assety z Asset Store (https://assetstore.unity.com/)
+* Conifers [BOTD]: https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
+* Grass Flowers Pack Free: https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+* Outdoor Ground Textures: https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+* Terrain Tools Sample Asset Pack: https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-tools-sample-asset-pack-145808
 
 + ProBuilder:
 Window > Package Manager > Packages: Unity Registry > Search: ProBuilder and install
 
-**Materiały pomocnicze**
+## Materiały pomocnicze
 
-Uruchomienie ProBuildera
-![image](https://user-images.githubusercontent.com/78505993/124717871-d2d5f580-df05-11eb-9abc-3511906cd8dd.png)
+#### Uruchomienie ProBuildera
 
-Utworzenie terenu
+ ![image](https://user-images.githubusercontent.com/78505993/124717871-d2d5f580-df05-11eb-9abc-3511906cd8dd.png)
+
+* Utworzenie terenu
+
 ![image](https://user-images.githubusercontent.com/78505993/124718234-2ea07e80-df06-11eb-8262-e5e078209098.png)
 
-Formowanie terenu
+* Formowanie terenu
+
 ![image](https://user-images.githubusercontent.com/78505993/124718470-6c050c00-df06-11eb-84cf-174bc6226b37.png)
 
 Nakładanie tekstur
